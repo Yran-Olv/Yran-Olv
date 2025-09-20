@@ -1,6 +1,6 @@
 <!-- Banner / Capa -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+o+Yran+Augusto+%F0%9F%91%8B;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+Dev+Fullstack+%7C+Sistemas+de+Informa%C3%A7%C3%A3o;Fundador+da+Multivus+—+Solu%C3%A7%C3%B5es+em+TI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+o+Yran+Augusto+👋;Técnico+em+Informática+|+Dev+Fullstack+|+Sistemas+de+Informação;Fundador+da+Multivus+—+Soluções+em+TI" alt="Typing Animation" />
 </p>
 
 <p align="center">
