@@ -17,34 +17,36 @@
 
 ---
 
-### 👨‍💻 Sobre mim
-Sou **Técnico em Informática** e **Desenvolvedor** (React / React Native / Node.js) com experiência em **manutenção de computadores, notebooks e impressoras**, além de desenvolvimento de **aplicativos e sistemas web**.  
-Atuo no **Laboratório Bioklin** e na **Multivus – Soluções em TI**.
+## 👨‍💻 Sobre mim
+Sou **Técnico em Informática** e **Desenvolvedor** com experiência em **manutenção de computadores, notebooks e impressoras**, além de desenvolvimento de **aplicativos e sistemas web**.  
+Atualmente atuo no **Laboratório Bioklin** e também na minha empresa **Multivus – Soluções em TI**.
 
-- 🎓 **Sistemas de Informação**
-- 🧩 Interesse: apps com **Expo**, **Next.js**, **PostgreSQL**, automações **Linux/Windows**
-- ⚙️ Ops: **Docker**, **NGINX**, **PM2**, **Ubuntu Server**
+- 🎓 Estudante de **Sistemas de Informação**  
+- 📱 Criação de apps com **React Native + Expo**  
+- 🌐 Desenvolvimento web com **Next.js e Node.js**  
+- 🗄️ Banco de dados: **PostgreSQL | SQLite | MongoDB**  
+- ⚙️ Infraestrutura: **Docker, NGINX, PM2, Ubuntu Server**  
 
 ---
 
-### 🛠️ Tech Stack
-<p>
+## 🛠️ Tecnologias
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,expo,nodejs,express,nextjs,html,css,tailwind,materialui,postgres,sqlite,mongodb,docker,nginx,linux,bash,git,github,vscode,powershell&perline=11" />
 </p>
 
 ---
 
-### 🚀 Projetos em destaque
-- 📱 **Calendário Emocional** — app em **React Native + Expo** para registro de humor diário.
-- 💱 **Conversor de Moedas** — mobile com integração a **APIs de câmbio**.
-- 🧾 **Multivus OS** — sistema de **Ordem de Serviço** com PDF + QR Code.
-- 🔗 **Instabio.me** — plataforma tipo **Linktree** com **Google/Telefone** e deploy em VPS.
+## 🚀 Projetos em Destaque
+- 📱 **Calendário Emocional** — app em **React Native + Expo** para registro de humor diário.  
+- 💱 **Conversor de Moedas** — aplicativo mobile com integração a **APIs de câmbio**.  
+- 🧾 **Multivus OS** — sistema de **Ordem de Serviço** com geração de PDF + QR Code.  
+- 🔗 **Instabio.me** — plataforma estilo **Linktree** com autenticação Google/Telefone e deploy em VPS.  
 
-> Quer ver mais? Acesse meus repositórios públicos e fixados.
+> 🔍 Veja mais nos meus **repositórios públicos fixados**.
 
 ---
 
-### 📊 Métricas & Atividade
+## 📊 Métricas & Atividade
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Yran-Olv&show_icons=true&theme=transparent&rank_icon=percentile&include_all_commits=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Yran-Olv&theme=transparent" />
@@ -60,27 +62,27 @@ Atuo no **Laboratório Bioklin** e na **Multivus – Soluções em TI**.
 
 ---
 
-### 📦 Pacotes & automações
-- Scripts para **deploy em Ubuntu** com **PM2** e **NGINX**
-- **Backup** e **restore** automatizados (cron)
-- Integrações com **API WhatsApp** (Whaticket/Oficial) e filas
+## 📦 Pacotes & Automação
+- Scripts de **deploy em Ubuntu** com **PM2** e **NGINX**  
+- Rotinas de **backup/restore** automatizadas (cron)  
+- Integrações com **API WhatsApp** (Whaticket/Oficial)  
 
 ---
 
 <details>
-<summary><b>📚 Formação, certificados e interesses</b></summary>
+<summary><b>📚 Formação e Interesses</b></summary>
 
-- **Sistemas de Informação** — em andamento  
-- Cursos em: **Arquitetura Web**, **Docker**, **Banco de Dados**  
-- Interesses: **UX simples**, **apps offline-first**, **observabilidade** e **boas práticas**
+- Estudante de **Sistemas de Informação**  
+- Cursos: **Arquitetura Web, Docker, Banco de Dados**  
+- Interesses: **UX simples**, **apps offline-first**, **observabilidade**, **boas práticas**  
 </details>
 
 ---
 
-### 📫 Contato
-- ✉️ **contato@multivus.com** (ou: **yran.augusto.contato@gmail.com**)  
-- 🔗 **LinkedIn:** [br.linkedin.com/in/yran-augusto-468639242](https://br.linkedin.com/in/yran-augusto-468639242)  
-- 🌐 **Multivus:** https://multivus.com.br  
+## 📫 Contato
+- ✉️ **contato@multivus.com** | **yran.augusto.contato@gmail.com**  
+- 🔗 [LinkedIn](https://br.linkedin.com/in/yran-augusto-468639242)  
+- 🌐 [Multivus](https://multivus.com.br)  
 
 ---
 
@@ -88,7 +90,9 @@ Atuo no **Laboratório Bioklin** e na **Multivus – Soluções em TI**.
   <i>"A tecnologia só faz sentido quando resolve problemas reais."</i>
 </p>
 
-<!-- Snake animation (gera um SVG com seus commits) -->
+---
+
+<!-- Snake animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yran-Olv/Yran-Olv/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
