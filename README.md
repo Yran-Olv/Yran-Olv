@@ -10,7 +10,7 @@
   <a href="mailto:contato@multivus.com">
     <img src="https://img.shields.io/badge/Email-contato%40multivus.com-0A66C2?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/yran-augusto-468639242>
+  <a href="https://www.linkedin.com/in/yran-augusto-468639242">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -46,16 +46,16 @@ Atuo no **Laboratório Bioklin** e na **Multivus – Soluções em TI**.
 
 ### 📊 Métricas & Atividade
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yrandev&show_icons=true&theme=transparent&rank_icon=percentile&include_all_commits=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yrandev&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Yran-Olv&show_icons=true&theme=transparent&rank_icon=percentile&include_all_commits=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Yran-Olv&theme=transparent" />
 </p>
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrandev&layout=compact&theme=transparent&langs_count=8" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yran-Olv&layout=compact&theme=transparent&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yrandev&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yran-Olv&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -79,8 +79,8 @@ Atuo no **Laboratório Bioklin** e na **Multivus – Soluções em TI**.
 
 ### 📫 Contato
 - ✉️ **contato@multivus.com** (ou: **yran.augusto.contato@gmail.com**)  
-- 🔗 **LinkedIn:** https://br.linkedin.com/in/yran-augusto-468639242  
-- 🌐 **Multivus:** https://multivus.com.br
+- 🔗 **LinkedIn:** [br.linkedin.com/in/yran-augusto-468639242](https://br.linkedin.com/in/yran-augusto-468639242)  
+- 🌐 **Multivus:** https://multivus.com.br  
 
 ---
 
@@ -90,5 +90,5 @@ Atuo no **Laboratório Bioklin** e na **Multivus – Soluções em TI**.
 
 <!-- Snake animation (gera um SVG com seus commits) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yrandev/yrandev/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Yran-Olv/Yran-Olv/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
