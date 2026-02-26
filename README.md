@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre mim
 Sou **Técnico em Informática** e **Desenvolvedor** com experiência em **manutenção de computadores, notebooks e impressoras**, além de desenvolvimento de **aplicativos e sistemas web**.  
-Atualmente atuo no **Laboratório Bioklin** e também na minha empresa **Multivus – Soluções em TI**.
+Atualmente atuo na minha empresa **Multivus – Soluções em TI**.
 
 - 🎓 Estudante de **Sistemas de Informação**  
 - 📱 Criação de apps com **React Native + Expo**  
