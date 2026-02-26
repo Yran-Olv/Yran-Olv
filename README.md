@@ -90,9 +90,4 @@ Atualmente atuo na minha empresa **Multivus – Soluções em TI**.
   <i>"A tecnologia só faz sentido quando resolve problemas reais."</i>
 </p>
 
----
 
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yran-Olv/Yran-Olv/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
